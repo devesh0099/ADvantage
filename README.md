@@ -1,5 +1,3 @@
-# Project README
-
 ## Bid Price Prediction for Real-Time Bidding (RTB) [ADvantage]
 
 This repository contains all code, data preprocessing scripts and documentation needed to reproduce our LightGBM-based system that predicts optimal bid prices in a real-time advertising exchange, meeting a strict 5 ms inference budget.
